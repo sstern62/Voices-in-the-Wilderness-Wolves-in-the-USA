@@ -37,5 +37,65 @@ This line goes straight to page 9 of the PDF and extracts the text from that pag
 ```
 reader.pages[8].extract_text()
 ```
-
+I then created an empty list called text and then had a loop go through each page in the PDF. For every page, it extracts the text and adds it to the list. When the loop is done, the text contains the extracted text from every page in order.
+```
+for page in reader.pages:
+    print(page.extract_text())
+```
+I wanted to check that this was successful, so I did the following code to confirm it. 
+```
+reader.pages[8].extract_text()
+```
+I then had to take all the text pieces stored in the list text and join them together into one long string so I could use the NLTK library. 
+```
+joined_text = ' '.join(text)
+```
+Then I made a new file and name it yellowstone.txt, which will put all of the text into it. When this is done, you’ll see the new text file appear in your python library. 
+```
+with open('yellowstone.txt', 'w', encoding='utf-8') as f:
+    f.write(joined_text)
+```
+I then needed to load the nltk library and download two tools it needs: punkt_tab, which helps Python split text into words and sentences, and stopwords, which gives a list of common words to ignore. It also imports Text so you can work with the text in NLTK.
+```
+import nltk
+nltk.download('punkt_tab')
+from nltk.text import Text
+nltk.download('stopwords')
+```
+I then had to take the text string (joined_text) and break it into individual words. nltk.word_tokenize() turns the text into a list of tokens that you can analyze using the NLTK library.
+```
+tokenized = nltk.word_tokenize(joined_text)
+```
+I wanted to confim that I had done this step correctly, so I checked the first ten words. 
+```
+tokenized[:10]
+```
+Then I created a new NLTK Text object from the list of words, which I called new_text.
+```
+new_text = Text(tokenized)
+```
+I wanted to check that the first ten word had been tokenized with the following code.
+```
+new_text[:10]
+```
+After that came back correct, I wanted to confirm the type of the new_text we'd created. 
+```
+type(new_text)
+```
+Now I ready to begin my semantic analysis of this PDF by using the options provided by the NLTK library. I've included the the opporations that I used below. 
+```
+new_text.similar('wolves')
+new_text.collocations()
+new_text.concordance('wolves')
+new_text.concordance('died')
+new_text.concordance('endangered')
+new_text.concordance('mortality')
+new_text.concordance('killed')
+new_text.concordance('death')
+```
+Once I compared those results, I then had NLTK generate a text portion from the PDF, which was my main point of anaysis and visualization of the PDF data. 
+```
+new_text.generate(length=100, text_seed=None, random_seed=42)
+```
+I repeated these steps for the other two PDFs. 
 
