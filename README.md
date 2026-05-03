@@ -7,7 +7,7 @@ Using the Natural Language Toolkit (NLTK), this analysis incorporates concordanc
 When analyzing the generated texts; Yellowstone showed the most emphasis on wolf birth and various succes, Oregon showed the most emphasis on lethal removal, and the United States as a whole showed prominence with mortality and population control.
 
 # Rationale Statement: 
-As the current administration seeks to defund conservation efforts and National Parks, it’s important now more than ever to examine the reality of endangered animals within the United States. My goal is to prove that the National Parks, such as Yellowstone, create a safe haven for the reintroduction efforts of various species, such as the gray wolf, and are essential for our ecological longevity. As this administration focuses on twisting words to suit their needs, it seemed only fitting to explore how we differentiate these populations linguistically and how these reports view their various groups. 
+As the current administration seeks to defund conservation efforts and National Parks, it’s important now more than ever to examine the reality of endangered animals within the United States. My goal is to stress that our National Parks, such as Yellowstone, create a safe haven for the reintroduction efforts of various species, such as the gray wolf, and are essential for our ecological longevity. As this administration focuses on twisting words to suit their needs, it seemed only fitting to explore how we differentiate these populations linguistically, and how these reports view their various groups. It also touches on my own personal interests and questions, as the wolves of Yellowstone are a notorious success that is struggling to be replecation in other areas that aren't recognized national parks. 
 
 # Workflow:
 
@@ -108,4 +108,6 @@ Once I compared those results, I then had NLTK generate a text portion from the 
 new_text.generate(length=100, text_seed=None, random_seed=42)
 ```
 I repeated these steps for the other two PDFs. 
+
+# Further Uses:
 
