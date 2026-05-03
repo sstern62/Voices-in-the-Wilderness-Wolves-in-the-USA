@@ -1,11 +1,15 @@
 # Voices-in-the-Wilderness-Wolves-in-the-USA
-Project Description: This project applies semantic analysis using Python to examine the conditions of wolf populations across the United States. Using reports from the Yellowstone and Oregon wolf populations, which were selected for their contrasting patterns of success and decline, the project situates these regional cases within the broader context of national wolf population data.
+# Project Description: 
+This project applies semantic analysis using Python to examine the conditions of wolf populations across the United States. Using reports from the Yellowstone and Oregon wolf populations, which were selected for their contrasting patterns of success and decline, the project situates these regional cases within the broader context of national wolf population data.
 
 Using the Natural Language Toolkit (NLTK), this analysis incorporates concordances, similarity measures, and text‑generation techniques to identify linguistic patterns within each report. The findings reveal notable variation between the datasets, with the Oregon report exhibiting the greatest degree of linguistic difference, offering insight into the distinct ecological and management conditions shaping these populations, as well as how these various institutions view interacting with their existing wolves. 
 
 When analyzing the generated texts; Yellowstone showed the most emphasis on wolf birth and various succes, Oregon showed the most emphasis on lethal removal, and the United States as a whole showed prominence with mortality and population control.
 
-Worflow
+# Rationale Statement: 
+As the current administration seeks to defund conservation efforts and National Parks, it’s important now more than ever to examine the reality of endangered animals within the United States. My goal is to prove that the National Parks, such as Yellowstone, create a safe haven for the reintroduction efforts of various species, such as the gray wolf, and are essential for our ecological longevity. As this administration focuses on twisting words to suit their needs, it seemed only fitting to explore how we differentiate these populations linguistically and how these reports view their various groups. 
+
+# Workflow:
 
 First, you need to install PyPDF2 pdfreader to read the provided PDFs. 
 ```
