@@ -1,5 +1,6 @@
 # Voices-in-the-Wilderness-Wolves-in-the-USA
-This project compared the language surrounding reports regarding wolf populations in the United States, with a specific lens taken comparing the population data from Yellowstone to that of the United States as a whole.
+Project Description: This project applies semantic analysis using Python to examine the conditions of wolf populations across the United States. Using reports from the Yellowstone and Oregon wolf populations, which were selected for their contrasting patterns of success and decline, the project situates these regional cases within the broader context of national wolf population data.
+Using the Natural Language Toolkit (NLTK), this analysis incorporates concordances, similarity measures, and text‑generation techniques to identify linguistic patterns and thematic emphasis within each report. The findings reveal notable variation between the datasets, with the Oregon report exhibiting the greatest degree of linguistic difference, offering insight into the distinct ecological and management conditions shaping these populations.
 
 First, you need to install PyPDF2 pdfreader to read the provided PDFs. 
 ```
