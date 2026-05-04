@@ -84,7 +84,7 @@ Then I created a new NLTK Text object from the list of words, which I called new
 ```
 new_text = Text(tokenized)
 ```
-I wanted to check that the first ten word had been tokenized with the following code.
+I wanted to check that the first ten words had been tokenized correctly with the following code.
 ```
 new_text[:10]
 ```
