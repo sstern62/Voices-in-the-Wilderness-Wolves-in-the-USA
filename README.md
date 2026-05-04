@@ -2,7 +2,7 @@
 # Project Description: 
 This project applies semantic analysis using Python to examine the conditions of wolf populations across the United States. Using reports from the Yellowstone and Oregon wolf populations, which were selected for their contrasting patterns of success and decline, the project situates these regional cases within the broader context of national wolf population data.
 
-Using the Natural Language Toolkit (NLTK), this analysis incorporates concordances, similarity measures, and text‑generation techniques to identify linguistic patterns within each report. The findings reveal notable variation between the datasets, with the Oregon report exhibiting the greatest degree of linguistic difference, offering insight into the distinct ecological and management conditions shaping these populations, as well as how these various institutions view interacting with their existing wolves. 
+Using the Natural Language Toolkit (NLTK), this analysis incorporates concordances, word similarities, and text‑generation techniques to identify linguistic patterns within each report. The findings reveal notable variation between the datasets, with the Oregon report exhibiting the greatest degree of linguistic difference, offering insight into the distinct ecological and management conditions shaping these populations, as well as how these various institutions view interacting with their existing wolves. 
 
 When analyzing the generated texts; Yellowstone showed the most emphasis on wolf birth and various succes, Oregon showed the most emphasis on lethal removal, and the United States as a whole showed prominence with mortality and population control.
 
