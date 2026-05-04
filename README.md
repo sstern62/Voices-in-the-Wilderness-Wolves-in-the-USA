@@ -13,11 +13,11 @@ As humans, we have the greatest power to both help and harm these animals, and i
 
 # Workflow:
 
-First, you need to install PyPDF2 pdfreader to read the provided PDFs. 
+First, I needed to install **PyPDF2 pdfreader** to read the provided PDFs. I only did one PDF at a time, as it kept everything more organized. 
 ```
 pip install PyPDF2 pdfreader
 ```
-Run this script to extract text from the first page of a PDF. Make sure the file 2024_Wolf Yellowstone.pdf is in the same folder. The code loads the PDF using PdfReader, selects the first page, and prints whatever text it contains to the terminal. 
+Then I ran this code to extract text from the first page of the PDF. Make sure the PDF file is in the same folder. The code loads the PDF using PdfReader, selects the first page, and prints whatever text it contains into the kernel. 
 ```
 from PyPDF2 import PdfReader
 reader = PdfReader("2024_Wolf Yellowstone.pdf")
@@ -28,28 +28,28 @@ I then checked the type to make sure I understand what I'm working with and how 
 ```
 type(reader.pages)
 ```
-I then went to check the number if pages I loaded in, to make sure I loaded them all in correctly and so I knew exactly how many I can loop through.
+I then went to check the number of pages that I loaded in. I needed to make sure I loaded them all in correctly, so I knew exactly how many I can loop through.
 ```
 len(reader.pages)
 ```
-I then attempt to check how many lines of text were on the first PDF page. 
+I then attempted to check how many lines of text were on the first PDF page. 
 ```
 len(reader.pages[0])
 ```
-I then wanted to check what type of object the first PDF page is so that I know what it returns. 
+I then wanted to check what type of object the first PDF page is so that I know what it would return. 
 ```
 type(reader.pages[0])
 ```
-Then I needed to write a loop goes through every page in the PDF one by one. For each page, it extracts the text and prints it, so that you are able to extract all of the text from the PDF.
+Then I needed to write a loop that goes through every page in the PDF one by one. For each page, it extracts the text and prints it so that you are able to extract all of the text from the PDF three.
 ```
 for page in reader.pages:
     print(page.extract_text())
 ```
-This line goes straight to page 9 of the PDF and extracts the text from that page. It’s a direct way to pull text from one page without looping through the whole document, to make sure that everything rpinted alright. 
+This line goes straight to page 9 of the PDF and extracts the text from that page. It’s a direct way to pull text from one page without looping through the whole document, to make sure that everything would print alright. 
 ```
 reader.pages[8].extract_text()
 ```
-I then created an empty list called text and then had a loop go through each page in the PDF. For every page, it extracts the text and adds it to the list. When the loop is done, the text contains the extracted text from every page in order.
+I then created an empty list **text** and then had a loop go through each page in the PDF. For every page, it extracts the text and adds it to the **list**. When the loop is done, the text contains the extracted text from every page in order.
 ```
 for page in reader.pages:
     print(page.extract_text())
@@ -58,23 +58,23 @@ I wanted to check that this was successful, so I did the following code to confi
 ```
 reader.pages[8].extract_text()
 ```
-I then had to take all the text pieces stored in the list text and join them together into one long string so I could use the NLTK library. 
+I then had to take all the **tex**t pieces stored in the **list** and join them together into one long **string** so I could use the **NLTK library**. 
 ```
 joined_text = ' '.join(text)
 ```
-Then I made a new file and name it yellowstone.txt, which will put all of the text into it. When this is done, you’ll see the new text file appear in your python library. 
+Then I made a new file and name it **yellowstone.txt**, using the first PDF I worked with as an example, which will put all of the text into it. When this is done, you’ll see the new text file appear in your python library. 
 ```
 with open('yellowstone.txt', 'w', encoding='utf-8') as f:
     f.write(joined_text)
 ```
-I then needed to load the nltk library and download two tools it needs: punkt_tab, which helps Python split text into words and sentences, and stopwords, which gives a list of common words to ignore. It also imports Text so you can work with the text in NLTK.
+I then needed to load the nltk library and download two tools it needs: **punkt_tab**, which helps Python split text into words and sentences, and **stopwords**, which gives a list of common words to ignore. It also imports Text so you can work with the text in NLTK.
 ```
 import nltk
 nltk.download('punkt_tab')
 from nltk.text import Text
 nltk.download('stopwords')
 ```
-I then had to take the text string (joined_text) and break it into individual words. nltk.word_tokenize() turns the text into a list of tokens that you can analyze using the NLTK library.
+I then had to take the text string **(joined_text)** and break it into individual words. **nltk.word_tokenize()** turns the text into a list of **tokens** that you can analyze using the NLTK library.
 ```
 tokenized = nltk.word_tokenize(joined_text)
 ```
@@ -82,7 +82,7 @@ I wanted to confim that I had done this step correctly, so I checked the first t
 ```
 tokenized[:10]
 ```
-Then I created a new NLTK Text object from the list of words, which I called new_text.
+Then I created a new **NLTK Text object** from the list of words, which I called **new_text**.
 ```
 new_text = Text(tokenized)
 ```
@@ -90,7 +90,7 @@ I wanted to check that the first ten words had been tokenized correctly with the
 ```
 new_text[:10]
 ```
-After that came back correct, I wanted to confirm the type of the new_text we'd created. 
+After that came back correct, I wanted to confirm that the type of the **new_text** object we'd created matched my expectations. 
 ```
 type(new_text)
 ```
@@ -109,7 +109,7 @@ Once I compared those results, I then had NLTK generate a text portion from the 
 ```
 new_text.generate(length=100, text_seed=None, random_seed=42)
 ```
-I repeated these steps for the other two PDFs. 
+**I repeated these steps for the other two PDFs.** 
 
 # Further Uses:
 
