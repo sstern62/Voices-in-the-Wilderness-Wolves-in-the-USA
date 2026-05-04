@@ -111,3 +111,4 @@ I repeated these steps for the other two PDFs.
 
 # Further Uses:
 
+The further uses of this project could be to run further semantic analysis using Python on teh data from other states, hopefully on Colorado one day if they release a report, and to use this same project on the data reports of other endangered species that have been revived by National Park related projects. 
