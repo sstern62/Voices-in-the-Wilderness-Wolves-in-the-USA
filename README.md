@@ -114,3 +114,10 @@ new_text.generate(length=100, text_seed=None, random_seed=42)
 # Further Uses:
 
 The further uses of this project could be to run further semantic analysis using Python on reports from states that weren't consider during this project. While Colorado is currently witnessing a rapid decline in their recently reintroduced wolf population, they have yet to publish an office report detailing the facts. Having mentioned Colorado, there's an angle that can be taken regarding the media's documentation of the wolf populations, as a great portion of that media appears to be negative surrounding the recently reintroduced population. Another way to further use this project would be to apply this analysis to other endangered and controversial species, especially in regards to the improve of having protected territory like our National Parks in order for them to thrive. Given more time, I would've been interested in exploring the exact language used around human and wildlife conflict, as Oregon showed interesting differences regarding the terminology used to express lethal operations towards their wolf population. 
+
+# Files Included: 
+
+All the files used for the creation and execution of this project can be found in the repository. 
+**1. The PDF Reports
+2. The Text Files
+3. My Python Notebooks showing the work and outcome, confirming my process and conclusions.**
