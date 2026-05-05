@@ -4,12 +4,12 @@ This project applies semantic analysis using Python to examine the conditions of
 
 Using the Natural Language Toolkit (NLTK), this analysis incorporates concordances, word similarities, and text‑generation techniques to identify linguistic patterns within each report. The findings reveal notable variation between the datasets, with the Oregon report exhibiting the greatest degree of linguistic difference, offering insight into the distinct ecological and management conditions shaping these populations, as well as how these various institutions view interacting with their existing wolves. 
 
-When analyzing the generated texts; Yellowstone showed the most emphasis on wolf birth and various success, Oregon showed the most emphasis on lethal removal, and the United States as a whole showed prominence with mortality and population control.
+When analyzing the generated texts; Yellowstone showed the most emphasis on wolf birth and various success, Oregon showed the most emphasis on lethal removal, and the United States as a whole showed prominence with mortality and population control. Now that I have familiarity with NLTK and PyPDF2, my ultimate hope is to gain mastery of these libraries and explore these conclusions further through the lens of the media attention these wolf populations tend to get. 
 
 # Rationale Statement: 
 As the current administration seeks to defund conservation efforts and National Parks, it’s important now more than ever to examine the reality of endangered animals within the United States. My goal is to stress that our National Parks, such as Yellowstone, create a safe haven for the reintroduction efforts of various species, such as the gray wolf. These locations are essential for our ecological longevity. As this administration focuses on twisting words to suit their needs, it seemed only fitting to explore how we differentiate these populations linguistically, and how these reports view their various groups. It also touches on my own personal interests and questions, as the wolves of Yellowstone are a notorious success, one that we are struggling to replicate in other places. 
 
-As humans, we have the greatest power to both help and harm these animals, and it is our responsibility to hold these institutions accountable and read between the lines. 
+As humans, we have the greatest power to both help and harm these animals, and it is our responsibility to hold these institutions accountable and read between the lines. I believe my findings regarding this project confirm that. 
 
 # Workflow:
 
@@ -113,7 +113,7 @@ new_text.generate(length=100, text_seed=None, random_seed=42)
 
 # Further Uses:
 
-The further uses of this project could be to run further semantic analysis using Python on reports from states that weren't consider during this project. While Colorado is currently witnessing a rapid decline in their recently reintroduced wolf population, they have yet to publish an office report detailing the facts. Having mentioned Colorado, there's an angle that can be taken regarding the media's documentation of the wolf populations, as a great portion of that media appears to be negative surrounding the recently reintroduced population. Another way to further use this project would be to apply this analysis to other endangered and controversial species, especially in regards to the improve of having protected territory like our National Parks in order for them to thrive. Given more time, I would've been interested in exploring the exact language used around human and wildlife conflict, as Oregon showed interesting differences regarding the terminology used to express lethal operations towards their wolf population. 
+The further uses of this project would be to run further semantic analysis using Python on reports from states that weren't consider during this project.While Colorado is currently witnessing a rapid decline in their recently reintroduced wolf population, they have yet to publish an office report detailing the facts. Having mentioned Colorado, there's an angle that can be taken regarding the media's documentation of the wolf populations, as a great portion of that media appears to be negative surrounding the recently reintroduced population. Another way to further use this project would be to apply this analysis to other endangered and controversial species, especially in regards to the improve of having protected territory like our National Parks in order for them to thrive. Given more time, I would've been interested in exploring the exact language used around human and wildlife conflict, as Oregon showed interesting differences regarding the terminology used to express lethal operations towards their wolf population. 
 
 # Files Included: 
 
