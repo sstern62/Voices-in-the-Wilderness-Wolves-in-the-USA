@@ -118,6 +118,15 @@ The further uses of this project could be to run further semantic analysis using
 # Files Included: 
 
 All the files used for the creation and execution of this project can be found in the repository. 
-1. The PDF Reports
-2. The Text Files
-3. My Python Notebooks showing the work and outcome, confirming my process and conclusions.
+1. *The PDF Reports*
+- 2024_Wolf Yellowstone.pdf (Yellowstone Data)
+- GreyWolfOregon.pdf (Oregon Data)
+- Gray Wolf Pop.pdf (USA Data)
+3. *The Text Files*
+- graywolf.txt (USA text)
+- oregon.txt (Oregon text)
+- yellowstone.txt (Yellowstone text)
+4. *My Python Notebooks showing the work and outcome, confirming my process and conclusions.*
+- GreyWolfOregon.ipynb (Oregon Notebook)
+- GrayWolfYellowstone.ipynb (Yellowstone Notebook)
+- GrayWolfUSA.ipynb (USA Notebook)
