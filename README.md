@@ -96,14 +96,14 @@ type(new_text)
 ```
 Now I ready to begin my semantic analysis of this PDF by using the options provided by the NLTK library. I've included the the opporations that I used below. 
 ```
-new_text.similar('wolves')
-new_text.collocations()
-new_text.concordance('wolves')
-new_text.concordance('died')
-new_text.concordance('endangered')
-new_text.concordance('mortality')
-new_text.concordance('killed')
-new_text.concordance('death')
+- new_text.similar('wolves')
+- new_text.collocations()
+- new_text.concordance('wolves')
+- new_text.concordance('died')
+- new_text.concordance('endangered')
+- new_text.concordance('mortality')
+- new_text.concordance('killed')
+- new_text.concordance('death')
 ```
 Once I compared those results, I then had NLTK generate a text portion from the PDF, which was my main point of anaysis and visualization of the PDF data. 
 ```
