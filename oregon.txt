@@ -1,0 +1,398 @@
+ 
+Oregon Wolf Conservation and Management  
+2025 Annual Report  
+ 
+ 
+ 
+This report to the Oregon Fish and Wildlife Commission presents information on the status, distribution, and 
+management of wolves in the Stat e of Oregon from January 1, 2025 to December 31, 2025.  
+  
+ 
+ 
+ 
+ 
+Suggested Citation:  
+Oregon Departme nt of Fish and Wildlife. 2026. Oregon Wolf Conservation and Management 2025 
+Annual Report. Oregon Department of Fish and Wildlife, 4034 Fairview Industrial Drive SE. Salem, 
+OR, 97302 
+ Oregon Department of Fish and Wildlife –  2025  Wolf Annual Report  
+1 
+ 
+ TABLE OF CONTENTS  
+ 
+EXECUTIVE SUMMARY ...................................................................................................................... 2 
+OREGON WOLF PROGRAM OVERVIEW  .......................................................................................... 3 
+Regulatory Status  .................................................................................................................................. 3 
+Population Status ................................................................................................................................... 4 
+Monitoring ............................................................................................................................................ 6 
+Information and Outreach ..................................................................................................................... 7 
+Staffing and Funding  ............................................................................................................................. 8 
+LIVESTOCK DEPREDATION MANAGEMENT  ................................................................................. 8 
+West Wolf Management Zone .............................................................................................................. 9 
+East Wolf Management Zone ............................................................................................................... 9 
+Compensation for Wolf -Caused Losses  .............................................................................................. 10 
+ 
+TABLES  
+ 
+Table 1 . Minimum wolf count in Oregon on Dec. 31, 2025 in the West Wolf Management Zone.  ........ 5 
+Table 2 . Minimum wolf count in Oregon on Dec. 31, 2025 in the East Wolf Management Zone  .......... 6 
+Table 3. Documented wolf mortalities in 2025 by Wolf Management Zone.  .......................................... 7 
+Table 4. Funds awarded through the County Block Grant Program in 2025  ......................................... 11 
+ 
+ 
+FIGURES  
+ 
+Figure 1. Wolf Management Zones in Oregon during 2025 .................................................................... 3 
+Figure 2. Minimum wolf count in Oregon (2009 -2025) ........................................................................... 4 
+Figure 3. Number of packs and breeding pairs in Oregon (2009 -2025)  ................................................... 4 
+Figure 4. Distribution of known resident wolf activity areas December 31, 2025 ................................... 5 
+Figure 5. Number of confirmed depredations by Wolf Management Zone by year (2009 -2025).  .......... 8 
+Figure 6. Number of confirmed cattle and sheep deaths from wolves in Oregon by year (2009 -2025)  .. 8 
+Figure 7. Number of depredation events and minimum wolf count in Oregon by year (2009 -2025)  ...... 9 
+Figure 8.  Number of depredation events and wolves removed in the East WMZ by year (2009- 2025) . 9 
+ 
+  EXECUTIVE S UMMARY 
+The conservation and manageme nt of wolves in Oregon i s gui ded by t he Oregon Wol f Conservation 
+and Management P lan (Wolf P lan). The Oregon Departme nt of Fish a nd Wildlif e (department) 
+annually review s the g ray wol f popul ation s tatus , monitoring objective s and livestock da mage 
+management a ctivities to infor m its adapti ve m anageme nt unde r the Wo lf Plan.  
+Wolve s conti nue t o be protected as a special s tatus ga me mammal statewide. Wolve s west of 
+Highwa ys 395/ 78/95 a re listed unde r the federal endangered s pecies act (ESA ) making t he U .S. Fish 
+and Wi ldlife Service (USFWS) responsibl e for manageme nt de cisions r egarding harassme nt and take 
+in that area.  
+The de partme nt monitor s the w olf popul ation t o determine t he num ber of breeding pair s of wolves in 
+each of t wo wolf m anagement zones , and Wol f Plan implementation i s then based on t hose data. 
+Wolves i n the Wes t Wol f Management Z one (WMZ) r eached t he conservation objecti ve of four 
+breeding pair s and t he minimu m manag ement obj ective of s even b reeding p airs f or the second 
+consecutive ye ar. If s even br eeding pa irs are documented af ter the end of 2026, t he W est WMZ will 
+move d irectly into Phas e III of the Wol f Plan. T he wol f popul ation in t he East WMZ continued to 
+exceed the Wol f Plan minimum management objective of seven breeding p airs, and these wolves 
+conti nue t o be managed unde r Phas e III of the Wol f Plan.  
+Oregon’ s wolf popul ation continue s to grow a nd disperse. T he minimum know n count of w olves in 
+Oregon a t the end of 2025 was 230 wolve s (204 in 2024). T hirty pac ks were doc umente d and 23 m et 
+the cr iteria as br eeding pair s (17 in 2024) . In addition, 13 gr oups of t wo or three wolve s were 
+identified, but di d not meet the de finition of a pack. W olves continued to expand westward in Oregon 
+with th ree ne w packs in t he Wes t WM Z.  
+The de partme nt monitored 58 r adio-collared w olves, including 29 t hat were captured and r adio-
+collared during 2025. B y year’s end, 30 of these wolves w ere still being a ctively moni tored, while 
+contact with the rest of t he collar s was lost due t o colla r failure, wol f death, or dispersa l to othe r states. 
+Forty- two wol f mortalitie s were documented during t he ye ar, including 39 tha t were hum an-caused.  
+There were 106 confirmed event s of livestock depredation i n 2025 (69 in 2024). C onsistent w ith the 
+Wolf Plan, livestock producer s implemented non-letha l measure s to minimiz e depredation pri or to any 
+departme nt approva l of wolf lethal removal. T wenty wolves were leth ally r emoved by t he de partment 
+in response to chronic depredation in the East WMZ in 2025. In addition, th ree wolves were lawfully 
+removed by livestock producers when they were caught in the act of attacking their livestock.  
+Consistent with the ODFW Commissions guidance to focus on reducing wolf/livestock conflict in NE 
+Oregon, ODFW has worked extensively with partners , such as Western Landowners Alliance, USDA 
+Wildlife Services, and the Oregon Cattlemens Association  in 2025 to ensure producers have resources 
+to prepare for, avoid, or respond to conflict, as well as education public on living with wolves. this 
+outreach has involved sustained work with hundreds of producers and over a thousand members of the 
+public.
+The Oregon Department of Agriculture’s (ODA) compensation  program awarded grants totaling 
+$729,318 to 14 counties in 2025. Th e majority of the funds (84% ) were used f or non-l ethal 
+preventative measures to reduce depredation, and all requests for compensation of confirmed and 
+probable depredations were granted in full. 
+Oregon Department  of Fish and Wildlife – 2025 Wolf  Annual Report 
+2  Oregon Department of Fish and Wildlife – 2025 Wolf Annual Report  
+3 OREGON WOLF  PROGRAM OVERVIEW  
+R
+egulatory Status 
+F
+ederal Status : Wolves west of H ighways 395/78/95 in Oregon remained listed under the federal ESA 
+during 2025 (Figure 1). In that  portion of Oregon, the USFWS made all management decisions 
+regarding harassment and take of wolves and collaborated on monitoring and non- lethal response to 
+depredation. In the same area, the department implemented the Wolf Plan within the sideboards of 
+federal ESA regulations and under the guidance of the Federal/State Coordination Strategy.  
+Figure 1. Wolf Management Zones in Oregon during 2025. 
+State  Status : Wolves are protected statewide as a special status game mammal and are managed under 
+the Wolf Plan guidelines and associated rules  for each Wolf Management Zone Phase.  Wolves in the 
+West WMZ are managed under the more protective Phase I rules until their population reaches a 
+minimum of four breeding pairs for three consecutive years. A breeding pair  is defined as an adult 
+male and adult female with at least two pups that survived to December 31 of the year of their birth. Eight packs counted as breeding pairs in the West WMZ in 2025. If at least seven  breeding pairs are 
+documented a fter the end of 2026, the Phase I conservation objective will be met ; additionally, the 
+Phase II management objective will also be met for the third consecutive year and the West WMZ will move into Phase III, skipping Phase II. 
+S
+ince 2017, w olves in the East WMZ have exceeded  the Wolf Plan  management minimum population 
+objective of seven breeding pairs for three consecutive years . As such, wolves in the East WMZ  
+ Oregon Department of Fish and Wildlife – 2025 Wolf Annual Report  
+4 continue to be managed under Phase III which focuses  on the conservation of wolves while allowing 
+more flexibility to address wolf conflict.  This includes continuing to emphasize the use of non- lethal 
+deterrents to reduce livestock depredation and the use of lethal removal  in certain situations  where 
+federally delisted . The department continued to focus attention on addressing wolf-livestock conflict, 
+reducing illegal take, and improving wolf  population monitoring statewide . 
+P
+opulation Status  
+While  a population model is being developed and validated for Oregon, the department continues to 
+provide a minimum known number of wolves present in Oregon at the end of each  year . This time - and 
+staff-intensive effort is a direct count of wolves, not an estimate.  These counts are conducted in the 
+winter and not all wolves are located , so the actual number of wolves in Oregon is likely higher than 
+this minimum count.  
+T
+he minimum known wolf count at the end of 2025 was 230, an increase of 13% from  2024 (Figure 2). 
+Fo
+r monitoring purposes, a pack  is defined as four or more wolves traveling together in winter. Thirty  
+packs were documented at the end of 2025 (Figure 3), with a mean pack size o f six wolves ( range 4 to  
+15). In addition, 13 groups of two or three wolves were identified. Throughout this report, group  is 
+used to denote two or more wolves traveling together. Reproduction was documented in 30 groups. At 
+the end of 2025, 23 packs were documented as successful breeding pairs , an increase f rom 1 7 in 2024. 
+D
+istribution: Areas  of Known Wolf Activity (AKWA) show where resident activity of an individual or 
+group of wolves have been repeatedly documented (Figure 4 ). When  multiple packs or individuals 
+overlap, those areas of use are combined into a larger  AKWA  to delineate contiguous areas of wolf 
+activity .  04080120160200240
+2009 2013 2017 2021 2025051015202530
+2009 2013 2017 2021 2025Packs
+Breeding Pairs
+Figure 2. Minimum wolf count in Oregon (2009 -
+2025).  Figure 3. Number of packs and breeding pairs in 
+Oregon (2009 -2025).   Oregon Department of Fish and Wildlife – 2025 Wolf Annual Report  
+5 F
+igure 4. Distribution of known resident wolf use areas December 31 , 202 5. 
+Wes
+t Wolf Management Zone: Thirty -eight percent of known Oregon wolves inhabited the West 
+WMZ  at the end of 2025, an increase from 24 % in 2024 (Table 1) . The wolf count in this zone 
+increased from 49 to 88 and the breeding pairs increased  from seven  to eight. Wolves continued to 
+expand in distribution with three new packs in the Cascades . Eight wolves were documented alone or 
+in pairs in Deschutes, Klamath, Lake, and Wasco counties. 
+Table 1 . Mini mum wolf count in Oregon on Dec. 31, 2025 in the West Wolf  Management Zone. Underlined 
+packs were counted as breeding pairs.   
+Pack/Group  Total  Pack/Group  Total  Pack/Group  Total  
+Gearhart Mtn Pack  4 Mt Hood  Pack  6 Upper Deschutes  Pack  9 
+Grouse Ridge Pack  15 Paulina Pack  6 Warm Springs Pack  9 
+Hawthorn Pack  7 Pinnacles Pack  5 White River wolves  3 
+Indigo Pack  5 Rogue wolves  2 Yamsay Mtn wolves  2 
+Metolius wolves  3 Sprague  Pack  4 other wolves/pairs  8 
+ Oregon Department of Fish and Wildlife – 2025 Wolf Annual Report  
+6 East Wolf Management Zone : Sixty -two percent of known Oregon wolves resided in the Ea st WMZ at 
+the end of 2025 ( n=142, Table 2). There were 20 packs in the East WMZ , two  more  than 2024. F ifteen 
+packs were documented as successful breeding pairs, an increase from 1 0 in 2024. Six wolves were 
+documented alone or in pairs in Baker, Grant , and Umatilla  counties.  
+Table 2 . Minimum wolf count in Oregon on Dec. 31, 2025 in the East Wolf Management Zone. Underlined 
+packs were counted as breeding pairs.  
+Pack/Group  Total  Pack/Group  Total  Pack/Group  Total  
+Arbuckle Pack  6 Keating wolves  2 Pearson Creek Pack  5 
+Balloon Tree Pack  6 Kuhn Ridge Pack  11 Peavine  Pack  6 
+Bear Creek wolves  1 Light Ridge Pack  4 Ruckel Ridge Pack  6 
+Black Pines Pack  7 Logan Valley wolves  2 Snake River Pack  4 
+Clark Creek Pack  6 Middle Fork Pack  11 Tower Mtn Pack  7 
+Desolation Pack  4 Minam Pack  4 Ukiah Pack  6 
+Finley Ridge  Pack  4 Noregaard wolves  2 Wenaha Pack  9 
+Five Points Pack  5 Northside wolves  3 Wildcat Pack  7 
+Jarboe  Pack  6 Ochoco wolves  2 other wolves/pairs  6 
+Mo
+nitoring  
+T
+he department conducts extensive monitoring of wolves utilizing radio and GPS collars, camera 
+traps, track and howling surveys, aerial surveys, and public reporting. In 2025, radio -collars were 
+deployed on 29 wolves. Data were collected from  58 radio -collared wolves in 33 separate areas of wolf 
+activity. After collar failure, wolf deaths, and dispersal, 30 wolves were still monitored at year’s end 
+(14% of the minimum wolf count). Nine radio -collared wolves dispers ed in 2025 with  seven  dispersing 
+within Oregon and two left the state . Two collared wolves dispersed into Oregon: one from California, 
+one from Washington. 
+Wo
+lves from the Grouse Flats Pack  spen t the majority of their time and denned in Washington so the 
+12 wolves are not included in Oregon’s 2025 annual count. However, six Grouse Flats Pack 
+depredations in Oregon are included in th is report . One radio -collared member of California’s 
+Whaleback Pack visited Oregon briefly during 2025. 
+M
+ortalities: Forty -two wolf mortalities were documented in  2025 (26 in 2024) with  seven  occurring in 
+the West WMZ and 3 5 in the East WMZ (Table 3). Two wolves died of natural causes, both killed by 
+other wolves. The cause of death is unknown for the previous breeding male of the Finley Ridge Pack, 
+although he was almost 10 years old. His decomposed carcass was discovered in 2026, but he died in 2025.  
+T
+hirty -nine wolf mortalities were human -caused. Three wolves were killed in motor vehicle collision s 
+(I-84, Hwy 97, and a paved secondary road). Twenty  wolves were lethally removed for chronic 
+livestock depredation, and three were killed under caught- in-act take (see Livestock Depredation 
+Management section below for details ).  
+O
+ne dispersing wolf was lethally removed by the USFWS under 50 CFR17.21(c)(3)(iv) following 
+increasing concerns about human safety . USFWS also directed the removal of six wolves in the  Oregon Department of Fish and Wildlife – 2025 Wolf Annual Report  
+7 Madison Butte Pack in response to human safety  concerns under 50CFR 17.21(c)(3)(iv). The 
+department conducted the removals under this authorization. 
+T
+wo wolf deaths are currently under investigation by 
+Oregon State Police (OSP) in the federally delisted 
+portion of Oregon. The breeding male of the Noregaard Pack was poisoned and the carcass of the breeding male of the Frazier Pack was not located but the radio -collar 
+was found cut off.  
+I
+n the federally listed portion of Oregon, OSP and t he 
+USFWS Office of Law Enforcement (OLE) investigated the illegal deaths of two wolves. Rewards are available for information about the deaths of the breeding males of the Metolius and Yamsay Mountain Packs. Additionally, OLE  investigat ed the incidental ( accidental ) take of two 
+wolves by USDA Wildlife Services (WS)  while removing 
+coyotes. The USFWS is working with Wildlife Services to reduce risk during future livestock protection activities . 
+I
+nformation and Outreach  
+W
+olves continue to be a subject of high interest in Oregon . Extensive one- on-one communication 
+occurs  between staff and a wide range of  individuals and audiences , and staff  also conduct numerous 
+media interviews and presentations to schools, universities,  agencies, agricultural organizations, 
+conservation groups and county compensation committees. For example, the central Oregon regional wolf biologist gave presentations to over 2,500 people at  19 events  that included elementary and high 
+schools, colleges, the High Desert Museum, nature education programs, non-profit groups, and other community events. 
+T
+he department continues to partner with Western Landowners Alliance (WLA), Oregon Cattleman’s 
+Association  (OCA), Oregon State University (OSU) and others collaborate on outreach to livestock 
+producers.  Examples of this work include: 
+•WLA host ed six wildlife track and sign workshops, aimed at getting producers and biologists
+together for a day in the field to build relationships and learn together ;
+•WLA hosted a two -day range rider training and panel discussion;
+•The department and WLA presented at the OCA Annual Convention and numerous countystockgrowers meetings ;
+•The department participated in a workshop hosted by OSU, WLA and OCA to collaborativelywork with livestoc k producers to identify  information and research needs ;
+•WLA, WS, and the department created an Oregon Producer’s Guide to Predator Attacks on
+Livestock  and distributed 2,000+ copies to livestock producers at various meetings, events and
+field offices ;
+•WLA produced a document on Wolf Location Information Sharing: Finding Common Ground,
+making it available online , and sharing through the OCA magazine and Working Wild
+Challenge newsletter ; andMortality Source  West 
+WMZ  East 
+WMZ  
+Natural or Unknown 0 3 
+Human Caused 
+V
+ehicle Collision  2 1 
+Caught- In-Act Take  0 3 
+Depredation  Removal  0 20 
+USFWS Determination  1 6 
+Deaths Investigated by 
+Law Enforcement  2 2 
+WS Incidental Take 2 0 
+Total  7 35 Table 3. Documented wolf mortalities in 
+2025 by Wolf Management Zone.   Oregon Department of Fish and Wildlife –  2025  Wolf Annual Report  
+8 
+ 
+ • WLA presented to 180+ department staff providing perspective and discussion on how to 
+effectively work with livestock producer s. 
+ 
+Wolves  were seen in recreational areas and rural neighborhoods in central Oregon more frequently in 
+2025. Informational s igns were posted and outreach was increased in those areas. The department 
+continues to maintain  a wolf web site (odfw.com/wolves ) to serve as  a public resource  and a n email list 
+of nearly 14,000 subscribers to provide major wolf updates . 
+ Staffing and Funding   
+ During 2025, the a ssistant wolf  coordinator position was converted to a regional wolf biologist 
+position stationed in John Day to provide additional field level support . Along with statewide wolf  
+coordinator in La Grande , those positions were funded by a federal grant budget allocat ion for the 
+2025- 2027 biennium of  $1,126,126. This grant includes  75% federal funds (Pittman -Robertson Grant 
+Program) with 25% state match that comes from a combination of license dollars ( 6%) and Lottery 
+Funds (19%).  Three regional wolf biologists , stationed in  Enterprise, Prineville and Central Point field 
+offices , were funded by a  permanent  allocat ion of  $1,178,516 General Fund for the 2025- 2027 
+biennium . In addition, district wildlife biologists and headquarters staff spent  substantial time and 
+resources on wolf issues.          
+LIVESTOCK DEPREDATION MANAGEMENT  
+ 
+Department and WS investigators confirmed 106 events of livestock depredation in 2025 (1 9 in West 
+WMZ, 87 in  East WMZ) (Figure 5). This number includes 6 depredations from the Grouse Flats pack 
+that range primarily in Washington and therefore are not included in the Oregon wolf count. Confirmed depredation events in creased from 69 in 2024 to 106 in  2025. Confirmed livestock deaths 
+in 2025 were ten cows, 77  calves , eight sheep , one goat and one livestock working dog (Figure 6). 
+Eleven  cows, 27 calves, one goat, and t wo livestock working dogs were confirmed as injured by 
+wolves. Sixteen cattle and 1 mule had probable determinations. 
+ 
+                 
+ 
+More  depredation eve nts occurred in the federally listed area (52%) than in the federally delisted area.   
+In 2025, 77 % of confirmed depredation events occurred on private land, 2 2% on public land and 1% 0102030405060708090
+2009 2013 2017 2021 2025West WMZ
+East WMZ
+0102030405060708090
+2009 2013 2017 2021 2025Cattle
+Sheep
+Figure 5. Number of confirmed depredations by 
+Wolf Management Zone by year (2009- 2025).  Figure 6. Number of confirmed cattle and sheep 
+deaths from wolves in Oregon by year (2009 -2025).   Oregon Department of Fish and Wildlife –  2025  Wolf Annual Report  
+9 
+ 
+ on tribal land. Confirmed depredations over time continue to occur at a lower trajectory than increases  
+in the wolf count , despite the higher depredation numbers over the last five years ( Figure 7).  
+ 
+       
+ 
+Wildlife S ervices , USFWS, county compensation committees and the department worked 
+collaboratively to provide technical advice, funding and field implementation of non- lethal measures to 
+assist livestock producers as they coped with wolf -livestock conflict. Staff focused on reducing 
+attractants in new areas of wolf activity and protecting livestock in areas with depre dating wolves. WS 
+added a  full-time position during 2025 to assist landowners in central  Oregon.   
+ West Wolf Management Zone  
+ 
+The department confirmed 19 depre dation event s in the West WMZ, an increase from 11 in 2024. Four 
+individuals or groups  depredated three or more times , one pack depredated twice,  and two packs  
+depredated once each. The majority of  depredations occurred i n Klamath (8), Jackson (5) , and Lake (5) 
+counties. All harassment and  take w ere regulated by the USFWS . The one wolf lethally removed by 
+the USFWS  for human safety concerns under 50CFR 17.21(c)(3)(iv) was responsible for eight  
+confirmed and four probable depredations despite numerous nonlethal deterrence actions (see 
+mortalities section above) . 
+ East Wolf Management Zone  
+ The department and WS  confirmed  87 depredation  event s in the East WMZ , 36 of which occurred in 
+the federally protected area. In total, this is  an increase from  2024 ( 58).  
+• Depredation on sheep de creased  with  two events attributed to  two pack s (eight  packs in 2024) .  
+• Confirmed cattle deaths in creased  52 percent over  the previous highest year ( 2023) .  
+• Twenty -two groups and two individuals depredated in ten counties. Seventy -one percent of 
+depredation events were in three counties:  Morrow , Umatilla , and Wallowa .   
+ 
+Under Oregon Administrative Rule (OAR) 635- 110-0030 (Phase III), the d epartment may lethally 
+remove wolves or issue a limited  duration permit for a livestock producer to remove  wolves to 04080120160200240
+2009 2013 2017 2021 2025Depredation Events
+Minimum Wolf Count
+0102030405060708090
+2009 2013 2017 2021 2025Depredation Events
+Wolves Removed
+Figure 7. Number and trendline of confirmed 
+depredation events and minimum wolf count in 
+Oregon by year (2009- 2025 ).  Figure 8.  Number of depredation events and wolves 
+removed for chronic depredation in the East WMZ  by 
+year (2009 -2025).  
+  Oregon Department of Fish and Wildlife –  2025  Wolf Annual Report  
+10 
+ 
+ minimize further conflict under a chronic depredation situation if non- lethal measures appropriate for 
+the situation have been employed. Chronic depredation in the East WMZ requires at least two 
+depredations in a nine -month period.  
+ In response to human‑safety concerns, the U.S. Fish and Wildlife Service (USFWS) determined that the Madison Butte Pack should be removed under 50 CFR 17.21(c)(3)(iv) . This pack was located  
+within the federally protected portion of the East Wolf Management Zone. The department carried out this removal following more than a year of coordinated efforts by livestock producers, USDA Wildlife Services, and ODFW to alter wolf behavior and prevent livestock depredations. In 2025, the Madison Butte Pack was respons ible for 17 confirmed and three probable depredation events, resulting in the 
+death or injury of 25 cattle.  During 2025, 18 individuals or groups reached chronic depredation status in the federally delisted area where the department makes lethal removal decisions.  Authorization was given for lethal  removal  in 
+twelve  groups . Twenty  wolves were lethally removed from  eight  groups  (Bear Creek -5, Bear Valley -1, 
+Frazier -2, Kuhn Ridge -5, Light Ridge -1, Logan Valley- 2, Pearson Creek -2, Wallupa -2) (Figure 8) . Of 
+those, s eventeen  wolves were removed through agency action by the department or WS acting on 
+behalf of the department.  Livestock producer s with limited -duration permit s killed  three wolves . Three 
+breeding adults were removed ( Light Ridge -female, Logan Valley -both).   
+ Livestock producers east of Highways 395/78/95 are able to lawfully shoot a wolf caught in the act of 
+biting , wounding, killing or chasing livestock or working dogs in certain circumstances without a 
+permit.  During 2025, three wolves were killed  by livestock producers while caught in the act of 
+attacking their cattle  (Five Points -2, Wallupa- 1).   
+ 
+Com pensation for Wolf -Caused Losses 
+ ODA’s  Wolf Depredation Compensation and Financial Assistance County Block Grant Program  
+provide s four  types of financial assistance to counties to support livestock producers affected by 
+wolves . It allows  for d irect compensation for confirmed and probable wolf depredations  (deaths and 
+injuries) and  payment for livestock reported as missing as a result of wolf depredation. Grant money is 
+also awarded to participating counties to assist with  costs to purchase supplies and implement 
+preventative measures . Also , the grant  cover s some county program implementation costs.   
+ Following Oregon Legislative action in 2025, updates were made to clarify and refine program authorities and funding uses.  Future years will include  a compensation multiplier for some livestock 
+animals and m issing livestock are no  longer eligible for compensation.  
+ ODA awarded $ 729,318 to 14 counties, a  seven percent  decrease from 202 4 (Table 4). ODA fulfilled 
+100% of county requests  for confirmed and probable depredation compensation; no missing livestock 
+claims were paid.  
+ The depa rtment’s primary roles in ODA’s compensation program are to delineate areas of known wolf 
+activity and investigate dead or injured livestock to determine if wolf depredation has occurred. Some counties request the department provide input on wolf activity and appropriate preventative non- lethal 
+measures.
+   Oregon Department of Fish and Wildlife –  2025  Wolf Annual Report  
+11 
+ 
+  
+Table 4. Funds awarded through the County Block Grant Program  in 202 5 (source ODA) . 
+County  Confirmed/Probable 
+Death/Injury  Missing   
+Livestock  Prevention  Admin  Total  
+Baker  $1,350  $0 $38,196  $495  $40,041  
+Crook  $2,840  $0 $50,000  $0 $52,840  
+Deschutes  $0 $0 $50,000 $0 $50,000  
+Douglas  $0 $0 $4,000  $0 $4,000  
+Grant  $20,000  $0 $53,196  $900  $74,096  
+Harney  $0 $0 $50,000 $2,000  $52,000 
+Jackson  $9,300  $0 $50,000  $0 $59,300  
+Klamath  $0 $0 $50,000  $2,000  $52,000  
+Lake  $3,232  $0 $35,854  $0 $39,086  
+Morrow  $4,556  $0 $50,000 $2,000  $56,556  
+Umatilla  $2,250  $0 $53,196  $1,000  $56,446  
+Union  $15,980  $0 $53,196  $0 $69,176  
+Wallowa  $44,970  $0 $48,196  $1,000  $94,166  
+Wheeler  $350  $0 $29,260  $0 $29,610  
+Award 
+Amount  $104,828 (14%)  $0 (0%) $615,095 (84%)  $9,395 ( 1%) $729,318  
+ 
