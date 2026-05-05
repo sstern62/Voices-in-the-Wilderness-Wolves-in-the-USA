@@ -126,7 +126,7 @@ All the files used for the creation and execution of this project can be found i
 - graywolf.txt (USA text)
 - oregon.txt (Oregon text)
 - yellowstone.txt (Yellowstone text)
-4. *My Python Notebooks showing the work and outcome, confirming my process and conclusions.*
+4. *My Python Notebooks showing the work and outcomes, confirming my process and conclusions.*
 - GreyWolfOregon.ipynb (Oregon Notebook)
 - GrayWolfYellowstone.ipynb (Yellowstone Notebook)
 - GrayWolfUSA.ipynb (USA Notebook)
