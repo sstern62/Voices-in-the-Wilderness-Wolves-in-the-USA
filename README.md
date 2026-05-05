@@ -94,7 +94,7 @@ After that came back correct, I wanted to confirm that the type of the **new_tex
 ```
 type(new_text)
 ```
-Now I ready to begin my semantic analysis of this PDF by using the options provided by the NLTK library (mostly the _similar_ and _collocations_ functions). I've included the the opporations that I used below. 
+Now I ready to begin my semantic analysis of this PDF by using the options provided by the NLTK library (mostly the _similar_ and _collocations_ functions). I've included the the opporations that I used below. However, I had to edit my collocation terms when I encounter the Oregon report, as it became clear to me that they used different terminology compared to the Yellowstone and USA data, those terms are not included but can be found in my _GreyWolfOregon.ipynb_ (the notebook). 
 ```
 - new_text.similar('wolves')
 - new_text.collocations()
