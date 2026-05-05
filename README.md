@@ -118,6 +118,6 @@ The further uses of this project could be to run further semantic analysis using
 # Files Included: 
 
 All the files used for the creation and execution of this project can be found in the repository. 
-**1. The PDF Reports
+1. The PDF Reports
 2. The Text Files
-3. My Python Notebooks showing the work and outcome, confirming my process and conclusions.**
+3. My Python Notebooks showing the work and outcome, confirming my process and conclusions.
