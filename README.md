@@ -94,7 +94,7 @@ After that came back correct, I wanted to confirm that the type of the **new_tex
 ```
 type(new_text)
 ```
-Now I ready to begin my semantic analysis of this PDF by using the options provided by the NLTK library. I've included the the opporations that I used below. 
+Now I ready to begin my semantic analysis of this PDF by using the options provided by the NLTK library (mostly the _similar_ and _collocations_ functions). I've included the the opporations that I used below. 
 ```
 - new_text.similar('wolves')
 - new_text.collocations()
@@ -105,7 +105,7 @@ Now I ready to begin my semantic analysis of this PDF by using the options provi
 - new_text.concordance('killed')
 - new_text.concordance('death')
 ```
-Once I compared those results, I then had NLTK generate a text portion from the PDF, which was my main point of anaysis and visualization of the PDF data. 
+Once I compared those results, I then had NLTK generate a text portion from the PDF, which was my main point of anaysis and visualization of the PDF data. I used this as my main point of analysis as it removed my own bias and stopped me from hunting for specific terms in the reports. 
 ```
 new_text.generate(length=100, text_seed=None, random_seed=42)
 ```
